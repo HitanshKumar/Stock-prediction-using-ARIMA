@@ -1,4 +1,5 @@
-**# Stock-prediction-using-ARIMA
+Stock-prediction-using-ARIMA
+
 **OBJECTIVE:**
 Arima model is one of the models that we have to predict the value of a time series upto n number of steps in the futer
 
